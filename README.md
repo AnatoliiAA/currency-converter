@@ -1,5 +1,5 @@
-This project was created using create-react-app.
-The app is hosted here: https://currency-converter-7f416.web.app/
+This project was created using create-react-app. \
+The app is hosted here: https://currency-converter-7f416.web.app/ \
 Feel free to check it out :)
 
 ## Available Scripts
