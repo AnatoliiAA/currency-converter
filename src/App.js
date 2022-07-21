@@ -1,11 +1,11 @@
+import { Global } from "@emotion/react";
+import { ConvertCurrencyPage } from "./components/convert-currency-page/ConvertCurrencyPage";
+import { reset } from "./theme/reset";
+import { global } from "./theme/global";
 
-
-function App() {
-  return (
-    <div className="App">
-       Init
-    </div>
-  );
-}
-
-export default App;
+export const App = () => (
+  <div>
+    <Global styles={[global, reset]}></Global>
+    <ConvertCurrencyPage />
+  </div>
+);
