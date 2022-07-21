@@ -1,4 +1,6 @@
 This project was created using create-react-app.
+The app is hosted here: https://currency-converter-7f416.web.app/
+Feel free to check it out :)
 
 ## Available Scripts
 
@@ -11,5 +13,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Builds the app for production to the `build` folder.
